@@ -10,7 +10,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from scipy.stats import skew, norm
 
-OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ellipse_100_runs.png")
+OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "images", "ellipse_100_runs.png")
 rng = np.random.default_rng(2026)
 
 # Same setup as the original script: box centered (0,0) 10x10, ellipse a=4 (vertical), b=2

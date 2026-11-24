@@ -11,7 +11,7 @@
 python3 ellipse_100_runs.py
 ```
 
-![results](ellipse_100_runs.png)
+![results](images/ellipse_100_runs.png)
 
 ## Results
 

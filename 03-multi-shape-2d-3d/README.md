@@ -20,3 +20,17 @@ python3 monte_carlo_shapes.py
 - **A 95% confidence interval** for each shape, plus the combined area or volume of all shapes, with overlaps counted once.
 - **A warning when a shape sticks out of the box.** The estimate then converges below 1.
 - **Vectorized with NumPy**, so a million points takes seconds.
+
+## Example output
+
+**2D:** an ellipse, a triangle and a circle, with 20,000 points and 100 runs.
+
+| Points | Convergence (100 runs) | Final estimates |
+|---|---|---|
+| ![](images/2d_points.png) | ![](images/2d_convergence_100_runs.png) | ![](images/2d_final_estimates.png) |
+
+**3D:** a sphere, a cone and a cube, with 20,000 points and 100 runs.
+
+| Points | Convergence (100 runs) | Final estimates |
+|---|---|---|
+| ![](images/3d_points.png) | ![](images/3d_convergence_100_runs.png) | ![](images/3d_final_estimates.png) |
