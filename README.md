@@ -2,7 +2,7 @@
 
 Estimating areas and volumes by throwing random points, and learning how to tell a real bug from ordinary statistical behavior.
 
-This project is part of my work learning the basics of particle physics under the guidance of **Professor Ashot Gasparian**, North Carolina A&T State University. Monte Carlo methods show up everywhere in particle physics: simulating detectors, working out what fraction of particles a detector can see (its *acceptance*), and estimating uncertainties. Before using them on physics problems, I started with the simplest version: estimating the area of an ellipse inside a box.
+This project is part of my work learning the basics of particle physics under the guidance of **Dr. Professor Ashot Gasparian**, North Carolina A&T State University. Monte Carlo methods show up everywhere in particle physics: simulating detectors, working out what fraction of particles a detector can see (its *acceptance*), and estimating uncertainties. Before using them on physics problems, I started with the simplest version: estimating the area of an ellipse inside a box.
 
 <p align="center">
   <img src="04-interactive-ui/images/ui_3d.png" width="48%" alt="Interactive UI, 3D mode">
